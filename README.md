@@ -1,7 +1,5 @@
 <h1 align="center" style="color: #5f87ff">Hi 👋, I'm Bianca Rodrigues!</h1>
 
-<hr>
-
 <h2 align="center"> Python developer and forever student </h2>
 
 
