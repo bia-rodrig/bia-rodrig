@@ -14,10 +14,8 @@
 
 :e-mail: **biancar1987@gmail.com**
 
-<p align="center">
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bia-rodrig&layout=compact&hide=html&theme=tokyonight" alt="bia-rodrig"/>
 
 <p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bia-rodrig&theme=tokyonight&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bia-rodrig&theme=tokyonight&show_icons=true" alt="bia-rodrig"/>
