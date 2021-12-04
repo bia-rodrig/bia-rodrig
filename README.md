@@ -1,3 +1,11 @@
+<h1 align="center" style="color: #5f87ff">Hi 👋, I'm Bianca Rodrigues!</h1>
+
+<hr>
+
+<h2 align="center"> Python developer and forever student </h2>
+
+
+
 :woman_technologist: **Media System Specialist** at *The Walt Disney Company*
 
 :woman_student: **Bachelor's in Computer Information Systems** - *UNISANTOS*
@@ -7,8 +15,6 @@
 :computer: **Python, Flask, Django, Tkinter, HTML, CSS, React**
 
 :e-mail: **biancar1987@gmail.com**
-
-# 
 
 <p align="center">
 
