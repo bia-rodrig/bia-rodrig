@@ -1,8 +1,9 @@
 <h1 align="center" style="color: #5f87ff">Hi 👋, I'm Bianca Rodrigues!</h1>
-<hr></hr>
+
+
 <h2 align="center">Python developer and forever student</h2>
 
-
+<hr></hr>
 
 :woman_technologist: **Media System Specialist** at *The Walt Disney Company*
 
