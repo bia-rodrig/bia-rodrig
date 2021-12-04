@@ -11,8 +11,12 @@
 
 :computer: **Python, Flask, Django, Tkinter, HTML, CSS, React**
 
-:e-mail: **biancar1987@gmail.com**
+:e-mail: **biancar1987@gmail.com*
+
+<p align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bia-rodrig&layout=compact&hide=html&theme=tokyonight" alt="bia-rodrig"/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bia-rodrig&theme=tokyonight&show_icons=true)
+
+</p>
