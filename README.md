@@ -3,8 +3,6 @@
 
 <h2 align="center">Python developer and forever student</h2>
 
-<hr></hr>
-
 :woman_technologist: **Media System Specialist** at *The Walt Disney Company*
 
 :woman_student: **Bachelor's in Computer Information Systems** - *UNISANTOS*
