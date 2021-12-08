@@ -8,11 +8,32 @@
 
 :books: **MBA - Digital Transformation - Information and Communication Technologies** - *USP*
 
-:computer: **Python, Flask, Django, Tkinter, HTML, CSS, React**
+<hr>
 
-📫 **biancar1987@gmail.com**
+### 💻 Languages
+Fluent: **Python, Flask, Django, Tkinter, React**
 
-☎️/✉️ : +55 13 99784-4688
+Advanced: **HTML, CSS, JavaScript**
+
+Intermediate: **C#, SQLite, MySQL, MongoDB, PostgreSQL**
+
+Basic: **TypeScript, Node.js**
+
+<hr>
+
+### 💬 Other Languages
+Native: Portuguese
+
+Fluent: English
+
+Advanced: Spanish
+
+<hr>
+
+### 🙋‍♀️ Contact
+📫: **biancar1987@gmail.com**
+
+☎️/✉️: **+55 13 99784-4688**
 
 <p align="center">
 
