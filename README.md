@@ -11,11 +11,11 @@
 <hr>
 
 ### 💻 Languages
-Fluent: **Python, Flask, Django, Tkinter, React**
+Fluent: **Python, Flask, Django, Tkinter, React, PostgreSQL, SQLite**
 
 Advanced: **HTML, CSS, JavaScript**
 
-Intermediate: **C#, SQLite, MySQL, MongoDB, PostgreSQL**
+Intermediate: **C#, MySQL, MongoDB**
 
 Basic: **TypeScript, Node.js**
 
