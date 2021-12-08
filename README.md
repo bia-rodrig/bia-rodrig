@@ -10,7 +10,9 @@
 
 :computer: **Python, Flask, Django, Tkinter, HTML, CSS, React**
 
-:e-mail: **biancar1987@gmail.com**
+📫 **biancar1987@gmail.com**
+
+☎️/✉️ : +55 13 99784-4688
 
 <p align="center">
 
