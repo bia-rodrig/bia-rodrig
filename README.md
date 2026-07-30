@@ -64,7 +64,6 @@
 ## 📫 Let's Connect
 
 📧 **biancar1987@gmail.com**  
-📱 **+55 13 99784-4688**
 
 ---
 
